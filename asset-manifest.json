@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fidgetloop/static/css/main.97acaf82.css",
+    "main.css": "/fidgetloop/static/css/main.36437f38.css",
     "main.js": "/fidgetloop/static/js/main.d905dc13.js",
     "static/js/453.86a56ceb.chunk.js": "/fidgetloop/static/js/453.86a56ceb.chunk.js",
     "static/media/twisters.jpg": "/fidgetloop/static/media/twisters.4e4a67388b599e464625.jpg",
@@ -17,12 +17,12 @@
     "static/media/Chain2.jpg": "/fidgetloop/static/media/Chain2.c00b25540dc42a917837.jpg",
     "static/media/Chain.jpg": "/fidgetloop/static/media/Chain.0649f46ce89eaf782b34.jpg",
     "index.html": "/fidgetloop/index.html",
-    "main.97acaf82.css.map": "/fidgetloop/static/css/main.97acaf82.css.map",
+    "main.36437f38.css.map": "/fidgetloop/static/css/main.36437f38.css.map",
     "main.d905dc13.js.map": "/fidgetloop/static/js/main.d905dc13.js.map",
     "453.86a56ceb.chunk.js.map": "/fidgetloop/static/js/453.86a56ceb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97acaf82.css",
+    "static/css/main.36437f38.css",
     "static/js/main.d905dc13.js"
   ]
 }
